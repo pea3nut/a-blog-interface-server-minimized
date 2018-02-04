@@ -1,0 +1,4 @@
+alias ="develop"
+name  ="开发"
+parent_alias =""
+child_alias_list =["web-develop"]
